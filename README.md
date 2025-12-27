@@ -1,10 +1,10 @@
 # Amazon-sales-data-analysis
 End-to-end Amazon sales data analysis using Python, SQL, and Power BI to analyze revenue, orders, category performance, fulfilment efficiency, and sales trends through interactive dashboards.
-# 📦 Amazon Sales Data Analysis Project
+# Amazon Sales Data Analysis Project
 
 # Project Overview
 This project presents an end-to-end **Amazon Sales Data Analysis** aimed at understanding sales performance, order trends, category-wise revenue, fulfilment efficiency, and cancellation impact.  
-The project demonstrates real-world **Data Analyst skills** using Python, SQL, and Power BI.
+The project demonstrates real-world Data Analyst skills using Python, SQL, and Power BI.
 
 # Project Objectives
 - Analyze total sales and order performance
@@ -14,22 +14,10 @@ The project demonstrates real-world **Data Analyst skills** using Python, SQL, a
 - Compare Amazon vs Merchant fulfilment
 - Build an interactive Power BI dashboard for business insights
 
----
-
-## 📂 Dataset Information
+# Dataset Information
 - Dataset Name: Amazon Sale Report  
 - Records: 120,000+ orders  
 - Type: Transactional sales data  
-
-# Key Columns:
-- Order ID  
-- Date  
-- Category  
-- Quantity  
-- Amount (Sales)  
-- Status  
-- Fulfilment  
-- Ship State
   
 # Tools & Technologies
 - Python (Pandas, NumPy) – Data cleaning & preprocessing  
